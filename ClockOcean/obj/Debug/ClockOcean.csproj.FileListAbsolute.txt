@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\bin\Debug\ClockOcean.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\bin\Debug\ClockOcean.exe
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\bin\Debug\ClockOcean.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\obj\Debug\ClockOcean.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\obj\Debug\ClockOcean.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\obj\Debug\ClockOcean.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\obj\Debug\ClockOcean.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\obj\Debug\ClockOcean.exe
+c:\users\admin\documents\visual studio 2015\Projects\ClockOcean\ClockOcean\obj\Debug\ClockOcean.pdb
